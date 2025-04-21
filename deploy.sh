@@ -10,7 +10,7 @@ cd public
 # 3. 初始化 Git
 echo "🔄 初始化 Git 并提交到 gh-pages..."
 git init
-git remote add origin https://github.com/roryshanshan/xcmobile.git
+git remote add origin https://github.com/roryshanshan/hydraulic-oil-pressing-machine.git
 
 # 4. 切换分支
 git checkout -b gh-pages
@@ -23,4 +23,4 @@ git push -f origin gh-pages
 # 6. 返回根目录
 cd ..
 
-echo "✅ 部署完成！请访问：https://roryshanshan.github.io/xcmobile/"
+echo "✅ 部署完成！请访问：https://roryshanshan.github.io/hydraulic-oil-pressing-machine/"
