@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Category1 on hydraulic-oil-pressing-machine</title>
     <link>http://localhost:1313/hydraulic-oil-pressing-machine/categories/category1/</link>
     <description>Recent content in Category1 on hydraulic-oil-pressing-machine</description>
@@ -13,17 +14,38 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/posts/catalog-for-apple-cabin/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/posts/catalog-for-apple-cabin/</guid>
+=======
+    <title>Category1 on XC Mobile House</title>
+    <link>http://localhost:1313/xcmobile/categories/category1/</link>
+    <description>Recent content in Category1 on XC Mobile House</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Apr 2025 08:53:15 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/xcmobile/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catalog for apple cabin</title>
+      <link>http://localhost:1313/xcmobile/posts/catalog-for-apple-cabin/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/posts/catalog-for-apple-cabin/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>E5 MODEL (Space capsule) details</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/posts/e5-modelspace-capsule-details/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/posts/e5-modelspace-capsule-details/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/posts/e5-modelspace-capsule-details/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/posts/e5-modelspace-capsule-details/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>E7 MODEL (Space capsule) details</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/posts/e7-modelspace-capsule-details-/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/posts/e7-modelspace-capsule-details-/</guid>
@@ -34,34 +56,63 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/posts/expandable-container-prefab-container-house-flat-pack-container-integrated-house/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/posts/expandable-container-prefab-container-house-flat-pack-container-integrated-house/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/posts/e7-modelspace-capsule-details-/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/posts/e7-modelspace-capsule-details-/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Our Featured Projects</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/posts/our-featured-projects/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/posts/our-featured-projects/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/posts/our-featured-projects/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/posts/our-featured-projects/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Prefab Portable A Fram Aframe Triangle Cabin House Home</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/posts/prefab-portable-a-fram-aframe-triangle-cabin-house-home/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/posts/prefab-portable-a-fram-aframe-triangle-cabin-house-home/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/posts/prefab-portable-a-fram-aframe-triangle-cabin-house-home/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/posts/prefab-portable-a-fram-aframe-triangle-cabin-house-home/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Prefabricated Modular Expandable Container Houses with Bedroom</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/posts/prefabricated-modular-expandable-container-houses-with-bedroom/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/posts/prefabricated-modular-expandable-container-houses-with-bedroom/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/posts/prefabricated-modular-expandable-container-houses-with-bedroom/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/posts/prefabricated-modular-expandable-container-houses-with-bedroom/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>What model we can do</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/posts/what-model-for-mobile-house-we-can-do/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/posts/what-model-for-mobile-house-we-can-do/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/posts/what-model-for-mobile-house-we-can-do/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/posts/what-model-for-mobile-house-we-can-do/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
   </channel>

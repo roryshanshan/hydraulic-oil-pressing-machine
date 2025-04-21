@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Tags on hydraulic-oil-pressing-machine</title>
     <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/</link>
     <description>Recent content in Tags on hydraulic-oil-pressing-machine</description>
@@ -13,17 +14,38 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/adu/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/adu/</guid>
+=======
+    <title>Tags on XC Mobile House</title>
+    <link>http://localhost:1313/xcmobile/tags/</link>
+    <description>Recent content in Tags on XC Mobile House</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Apr 2025 08:53:15 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/xcmobile/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADU</title>
+      <link>http://localhost:1313/xcmobile/tags/adu/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/adu/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>AppleCabin</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/applecabin/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/applecabin/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/applecabin/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/applecabin/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>CulturalTourism</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/culturaltourism/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/culturaltourism/</guid>
@@ -34,24 +56,42 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/customspacecapsule/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/customspacecapsule/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/culturaltourism/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/culturaltourism/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>E5</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/e5/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/e5/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/e5/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/e5/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>E7</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/e7/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/e7/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/e7/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/e7/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>EcoLodging</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/ecolodging/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/ecolodging/</guid>
@@ -69,10 +109,16 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/flat-pack-container/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/flat-pack-container/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/ecolodging/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/ecolodging/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Glamping</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/glamping/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/glamping/</guid>
@@ -83,10 +129,16 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/highqualitycapsule/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/highqualitycapsule/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/glamping/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/glamping/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>HospitalityInnovation</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/hospitalityinnovation/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/hospitalityinnovation/</guid>
@@ -97,10 +149,16 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/integrated-house/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/integrated-house/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/hospitalityinnovation/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/hospitalityinnovation/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Mobile House</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/mobile-house/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/mobile-house/</guid>
@@ -125,10 +183,16 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/modularcapsule/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/modularcapsule/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/mobile-house/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/mobile-house/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>ModularHomes</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/modularhomes/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/modularhomes/</guid>
@@ -139,24 +203,42 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/prefab-container-housee/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/prefab-container-housee/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/modularhomes/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/modularhomes/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Prefab Portable a Fram Aframe Triangle Cabin House Home</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/prefab-portable-a-fram-aframe-triangle-cabin-house-home/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/prefab-portable-a-fram-aframe-triangle-cabin-house-home/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/prefab-portable-a-fram-aframe-triangle-cabin-house-home/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/prefab-portable-a-fram-aframe-triangle-cabin-house-home/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Prefabricated Modular Expandable Container Houses With Bedroom</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/prefabricated-modular-expandable-container-houses-with-bedroom/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/prefabricated-modular-expandable-container-houses-with-bedroom/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/prefabricated-modular-expandable-container-houses-with-bedroom/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/prefabricated-modular-expandable-container-houses-with-bedroom/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>SpaceCapsule</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/spacecapsule/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/spacecapsule/</guid>
@@ -181,27 +263,50 @@
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/spacecapsulehomestay/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/spacecapsulehomestay/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/spacecapsule/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/spacecapsule/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Tag1</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/tag1/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/tag1/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/tag1/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/tag1/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Tag2</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/tag2/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/tag2/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/tag2/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/tag2/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
     <item>
       <title>Tiny House</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hydraulic-oil-pressing-machine/tags/tiny-house/</link>
       <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
       <guid>http://localhost:1313/hydraulic-oil-pressing-machine/tags/tiny-house/</guid>
+=======
+      <link>http://localhost:1313/xcmobile/tags/tiny-house/</link>
+      <pubDate>Fri, 11 Apr 2025 08:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/xcmobile/tags/tiny-house/</guid>
+>>>>>>> d8372ca757cb5855e5543671b592f8de89611a67
       <description></description>
     </item>
   </channel>
