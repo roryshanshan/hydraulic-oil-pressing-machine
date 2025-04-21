@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://roryshanshan.github.io/xcmobile/sitemap.xml
+Sitemap: https://roryshanshan.github.io/hydraulic-oil-pressing-machine/sitemap.xml
