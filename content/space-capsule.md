@@ -76,3 +76,5 @@ tags:
 ## [Please check here for E5 MODEL(Space capsule) details](https://roryshanshan.github.io/xcmobile/posts/e5-modelspace-capsule-details/)
 
 ## [Please check here for E7 MODEL(Space capsule) details](https://roryshanshan.github.io/xcmobile/posts/e7-modelspace-capsule-details-/)
+
+![Space capsule](https://i.postimg.cc/v8dKwb4t/20250418144450297.png?dl=1)

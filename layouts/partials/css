@@ -1,0 +1,30 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  position: relative;
+}
+
+li ul {
+  display: none;
+  position: absolute;
+  left: 100%;
+  top: 0;
+}
+
+li:hover > ul {
+  display: block;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    /* 其他样式 */
+  }
+  
+  nav ul li:hover > ul {
+    display: block;
+  }

@@ -1,7 +1,7 @@
-baseURL = "https://roryshanshan.github.io/xcmobile/"
+baseURL = "https://roryshanshan.github.io/hydraulic-oil-pressing-machine/"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "XC Mobile House"
+title = "hydraulic-oil-pressing-machine"
 theme = "dream"
 
 
@@ -10,6 +10,8 @@ enableMenu = true
 github = { href = "https://github.com/g1eny0ung", title = "GitHub" }
 favicon = "https://i.postimg.cc/sjj7ZykN/202504120804853.png"
 
+description = "hydraulic-oil-pressing-machine - Manufacturer for hydraulic-oil-pressing-machine"
+
 lightTheme = "emerald"
 darkTheme = "forest"
 
@@ -17,9 +19,8 @@ darkTheme = "forest"
 # backgroundImageDark = ""
 
 author = "Gavin"
-description = "XC MOBILE HOUSE--Manufacturer for mobile house"
 avatar = "https://i.postimg.cc/G3tYDFp6/202504112221048.png"
-headerTitle = "XC MOBILE HOUSE--Manufacturer for mobile house"
+headerTitle = "hydraulic-oil-pressing-machine--Manufacturer for hydraulic-oil-pressing-machine"
 # motto = "Be your best supplier--Made IN CHINA"
 
 footerBottomText = "Qingzhou County, Weifang City, Shandong Province"
@@ -95,10 +96,17 @@ jsDateFormat = "yyyy年MM月dd日"
     weight = 4
 
   [[menu.main]]
-  name = "Other"
-  identifier = "other"
-  url = "/other/"
-  weight = 5
+   identifier = "other"
+   name = "Other"
+   url = "/other/"
+   weight = 5
+
+  [[menu.main]]
+   identifier = "project"
+   name = "Project"
+   url = "/other/project/"
+   parent = "other"
+   weight = 1
 
 
 enableRobotsTXT = true  # 详见 Dream 作者 docs 目录下文档
